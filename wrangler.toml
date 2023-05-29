@@ -1,0 +1,8 @@
+name = "telemetry"
+main = "src/index.ts"
+compatibility_date = "2023-05-28"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "telemetry"
+database_id = "2a962ff5-dd1e-4acc-957f-4bc9c29a7406"
