@@ -1,0 +1,20 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Yarn lock file
+yarn.lock
+
+# Ignore NPM lock file
+package-lock.json
+
+# Ignore Wrangler build directory
+workers-site/
+
+# Ignore Wrangler configuration file
+wrangler.toml
+
+# Ignore Wrangler generated files
+wrangler_generated/
+
+# Ignore Wrangler publish directory
+.publish/
